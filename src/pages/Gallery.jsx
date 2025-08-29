@@ -264,6 +264,7 @@ const Gallery = () => {
                         >
                             &times; {/* This is the 'x' close button */}
                         </button>
+                        
                         <img 
                             src={selectedImage.src} 
                             alt={selectedImage.title} 
