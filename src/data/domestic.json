@@ -1,0 +1,282 @@
+[
+  {
+    "id": "Goa",
+    "name": "Goa Package",
+    "description": "Experience a 2-night, 3-day getaway to Goa, covering the beaches and historical sites of both North and South Goa. You'll visit places like Aguada Fort, Calangute Beach, and Shri Shantadurga Temple. Our package ensures a relaxing trip.",
+    "images": [
+      "/images/Domestic/Goa/Goa1.png",
+      "/images/Domestic/Goa/Goa2.png",
+      "/images/Domestic/Goa/Goa3.png"
+    ],
+    "price": "₹15,000",
+    "originalPrice": "₹18,000",
+    "duration": "3 days",
+    "rating": 4.6,
+    "Domestic": ["Goa"],
+    "includes": [
+      "2 nights accommodation",
+      "Daily breakfast, lunch & dinner",
+      "Entry tickets for sightseeing",
+      "AC vehicle for all transfers"
+    ],
+    "highlights": [
+      "Dolphin Point trip",
+      "Aguada Fort",
+      "Calangute Beach",
+      "Basilica of Bom Jesus"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": "Gujarat",
+    "name": "Gujarat Tour Package",
+    "description": "A 5-night, 6-day tour of Gujarat, covering major cities and cultural landmarks. Highlights include a visit to the Statue of Unity and the beautiful Akshardham temple. This comprehensive tour is perfect for a cultural deep dive.",
+    "images": [
+      "/images/Domestic/Gujarat/Gujarat1.png",
+      "/images/Domestic/Gujarat/Gujarat2.png",
+      "/images/Domestic/Gujarat/Gujarat3.png"
+    ],
+    "price": "₹25,000",
+    "originalPrice": "₹29,000",
+    "duration": "6 days",
+    "rating": 4.7,
+    "Domestic": ["Ahmedabad", "Mount Abu", "Vadodara"],
+    "includes": [
+      "AC vehicle for all transfers",
+      "Hotel accommodation in 3 cities",
+      "Daily breakfast, lunch & dinner",
+      "Entry tickets to major sites"
+    ],
+    "highlights": [
+      "Statue of Unity",
+      "Akshardham Temple",
+      "Nakki Lake",
+      "Dilwara Jain Temple"
+    ],
+    "category": "Cultural"
+  },
+  {
+    "id": "Himachal",
+    "name": "Himachal Tour",
+    "description": "A scenic 6-night, 7-day tour covering the popular hill stations of Manali, Shimla, and Chandigarh. You'll visit stunning snow-capped peaks and local markets, enjoying the serene beauty of the Himalayas. An unforgettable natural experience awaits.",
+    "images": [
+      "/images/Domestic/Himachal/Himachal1.png",
+      "/images/Domestic/Himachal/Himachal2.png",
+      "/images/Domestic/Himachal/Himachal3.png"
+    ],
+    "price": "₹35,000",
+    "originalPrice": "₹40,000",
+    "duration": "7 days",
+    "rating": 4.8,
+    "Domestic": ["Shimla", "Manali", "Chandigarh"],
+    "includes": [
+      "AC vehicle from Delhi",
+      "Accommodation in 3 cities",
+      "Daily breakfast, lunch & dinner",
+      "All sightseeing by AC bus"
+    ],
+    "highlights": [
+      "Rock Garden",
+      "Rohtang Pass (if open)",
+      "Hadimba Devi Temple",
+      "Kufri"
+    ],
+    "category": "Nature"
+  },
+  {
+    "id": "KailashMansarovar",
+    "name": "Kailash Mansarovar Yatra",
+    "description": "A 12-night, 13-day spiritual journey to Mount Kailash and Lake Manasarovar, starting and ending in Kathmandu. This pilgrimage offers a truly transcendent experience through sacred sites and breathtaking landscapes, a journey for the soul.",
+    "images": [
+      "/images/kailash1.jpg",
+      "/images/kailash2.jpg",
+      "/images/kailash3.jpg"
+    ],
+    "price": "₹95,000",
+    "originalPrice": "₹110,000",
+    "duration": "13 days",
+    "rating": 4.9,
+    "includes": [
+      "Accommodation as per itinerary",
+      "All travel arrangements & permits",
+      "Meals as per tour plan",
+      "Experienced tour guide"
+    ],
+    "highlights": [
+      "Pashupatinath Temple",
+      "Mount Kailash Parikrama",
+      "Lake Manasarovar",
+      "Swayambhunath Stupa"
+    ],
+    "category": "Pilgrimage"
+  },
+  {
+    "id": "Kashmir",
+    "name": "Kashmir Tour",
+    "description": "A 5-night, 6-day tour of Kashmir, covering Srinagar, Gulmarg, and Pahalgam. Focus on natural beauty and adventure, with a memorable Shikara ride on Dal Lake and a Gondola ride at Gulmarg. Truly a paradise on earth.",
+    "images": [
+      "/images/Domestic/Kashmir/Kashmir1.png",
+      "/images/Domestic/Kashmir/Kashmir2.png",
+      "/images/Domestic/Kashmir/Kashmir3.png"
+    ],
+    "price": "₹40,000",
+    "originalPrice": "₹45,000",
+    "duration": "6 days",
+    "rating": 4.8,
+    "Domestic": ["Srinagar", "Gulmarg", "Pahalgam"],
+    "includes": [
+      "Accommodation on twin-sharing basis",
+      "AC vehicle for all transfers",
+      "1-hour Shikara ride on Dal Lake",
+      "Airport meet & greet assistance"
+    ],
+    "highlights": [
+      "Mughal Gardens",
+      "Shikara ride on Dal Lake",
+      "Gondola ride at Gulmarg"
+    ],
+    "category": "Nature"
+  },
+{
+    "id": "Andaman",
+    "name": "Andaman Package",
+    "description": "A 4-night, 5-day tour to the Andaman Islands. Discover Port Blair and Havelock Island with visits to Corbyn's Cove beach and scenic Elephant beach. Truly a tropical paradise with pristine beaches and clear waters.",
+    "images": [
+      "/images/international/Andaman/andaman1.png",
+      "/images/international/Andaman/andaman2.png",
+      "/images/international/Andaman/andaman3.png"
+    ],
+    "price": "₹28,000",
+    "originalPrice": "₹32,000",
+    "duration": "5 days",
+    "rating": 4.7,
+    "Domestic": ["Port Blair", "Havelock Island"],
+    "includes": [
+      "Accommodation on twin-sharing basis",
+      "All island transfers",
+      "Breakfast and Dinner",
+      "Airport meet & greet assistance"
+    ],
+    "highlights": [
+      "Corbyn's Cove Beach",
+      "Light & Sound Show",
+      "Radhanagar Beach",
+      "Elephant Beach",
+      "Cellular Jail"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": "ChardhamYatra",
+    "name": "Chardham Yatra",
+    "description": "Embark on an 11-night, 12-day spiritual journey to the sacred Char Dhams of Uttarakhand for a truly divine pilgrimage experience. A journey of faith through breathtaking Himalayan landscapes.",
+    "images": [
+      "/images/Domestic/Chardham/Chardham1.png",
+      "/images/Domestic/Chardham/Chardham2.png",
+      "/images/Domestic/Chardham/Chardham3.png"
+    ],
+    "price": "₹35,000",
+    "originalPrice": "₹40,000",
+    "duration": "12 days",
+    "rating": 4.9,
+    "Domestic": ["Haridwar", "Yamunotri", "Gangotri", "Kedarnath", "Badrinath"],
+    "includes": [
+      "Accommodation in Dharamshala/ashrams",
+      "All meals (vegetarian)",
+      "Transportation for the entire pilgrimage",
+      "Experienced guide for assistance"
+    ],
+    "highlights": [
+      "Ganga Aarti in Haridwar",
+      "Yamunotri Temple Visit",
+      "Gangotri Temple Visit",
+      "Kedarnath Temple Trek",
+      "Badrinath Temple View"
+    ],
+    "category": "Pilgrimage"
+  },
+  {
+    "id": "Kerala",
+    "name": "Kerala Package",
+    "description": "A 4-night, 5-day tour of Kerala's natural beauty, covering Cochin, Munnar, and Alleppey. This trip highlights the tranquil backwater houseboats, waterfalls, and tea plantations, making for a scenic and relaxing journey.",
+    "images": [
+      "/images/Domestic/Kerala/Kerala1.png",
+      "/images/Domestic/Kerala/Kerala2.png",
+      "/images/Domestic/Kerala/Kerala3.png"
+    ],
+    "price": "₹28,000",
+    "originalPrice": "₹32,000",
+    "duration": "5 days",
+    "rating": 4.7,
+    "Domestic": ["Cochin", "Munnar", "Alleppey"],
+    "includes": [
+      "Accommodation on double-sharing basis",
+      "Daily breakfast, lunch & dinner",
+      "AC vehicle for all transfers",
+      "All vehicle-related expenses"
+    ],
+    "highlights": [
+      "Valara and Cheeyappara waterfalls",
+      "Tea Plantations",
+      "Eravikulam National Park",
+      "Houseboat stay"
+    ],
+    "category": "Nature"
+  },
+  {
+    "id": "SouthIndiaPilgrimage",
+    "name": "Madhurai to Kanyakumari Tour",
+    "description": "A comprehensive 5-night, 6-day tour of Southern India's spiritual and natural sites. You will visit sacred temples like Meenakshi Sundareshwara and Ramanathaswamy, and witness the unique beauty of Kanyakumari. A truly spiritual escape.",
+    "images": [
+      "/images/kodai1.jpg",
+      "/images/kodai2.jpg",
+      "/images/kodai3.jpg"
+    ],
+    "price": "₹30,000",
+    "originalPrice": "₹35,000",
+    "duration": "6 days",
+    "rating": 4.7,
+    "Domestic": ["Kodaikanal", "Madurai", "Rameshwaram", "Kanyakumari"],
+    "includes": [
+      "Accommodation on double-sharing basis",
+      "AC vehicle for all transfers",
+      "Daily breakfast & dinner",
+      "Entry fees to temples & sites"
+    ],
+    "highlights": [
+      "Kodaikanal Lake",
+      "Sri Meenakshi Temple",
+      "Ramanathaswamy Temple",
+      "Vivekananda Rock"
+    ],
+    "category": "Pilgrimage"
+  },
+  {
+    "id": "SouthIndia",
+    "name": "South India Tour",
+    "description": "A 5-night, 6-day tour of South India's major cities and attractions, including Bangalore, Mysore, and Ooty. This tour offers a blend of natural landscapes and urban highlights, providing a well-rounded and exciting travel experience.",
+    "images": [
+      "/images/Domestic/SouthIndia/SouthIndia1.png",
+      "/images/Domestic/SouthIndia/SouthIndia2.png",
+      "/images/Domestic/SouthIndia/SouthIndia3.png"
+    ],
+    "price": "₹27,000",
+    "originalPrice": "₹31,000",
+    "duration": "6 days",
+    "rating": 4.5,
+    "Domestic": ["Bangalore", "Mysore", "Ooty"],
+    "includes": [
+      "All transfers by AC vehicle",
+      "Accommodation on triple-sharing basis",
+      "Daily breakfast, lunch & dinner",
+      "Entry fees to major sites & guide"
+    ],
+    "highlights": [
+      "Innovative Film City",
+      "Vidhan Sabha",
+      "Nandi Temple",
+      "Wonderla Park"
+    ],
+    "category": "Cultural"
+  }
+]

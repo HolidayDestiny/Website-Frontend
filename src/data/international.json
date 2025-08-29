@@ -1,0 +1,209 @@
+[
+  {
+    "id": "Dubai",
+    "name": "Dubai, UAE",
+    "description": "Discover Dubai and Abu Dhabi with iconic landmarks, thrilling desert safaris, and unforgettable views from the top of the Burj Khalifa.",
+    "images": [
+      "/images/international/UAE/dubai1.png",
+      "/images/international/UAE/dubai2.png",
+      "/images/international/UAE/dubai3.png"
+    ],
+    "duration": "6 days",
+    "rating": 4.8,
+    "highlights": [
+      "Dhow Cruise Marina",
+      "Burj Khalifa Top Deck",
+      "Desert Safari with BBQ",
+      "Abu Dhabi City Tour",
+      "Sheikh Zayed Mosque"
+    ],
+    "category": "City"
+  },
+  {
+    "id": "SriLanka",
+    "name": "Sri Lanka",
+    "description": "Experience the tropical paradise of Sri Lanka. Discover cultural temples, ancient rock fortresses, lush tea gardens, and stunning wildlife safaris.",
+    "images": [
+      "/images/international/Srilanka/srilanka1.png",
+      "/images/international/Srilanka/srilanka2.png",
+      "/images/international/Srilanka/srilanka3.png"
+    ],
+    "duration": "6 days",
+    "rating": 4.9,
+    "highlights": [
+      "Colombo City Tour",
+      "Sigiriya Lion Rock",
+      "Dambulla Cave Temples",
+      "Temple of Tooth Relic",
+      "Peradeniya Botanical Garden"
+    ],
+    "category": "Adventure"
+  },
+  {
+    "id": "Almaty",
+    "name": "Almaty, Kazakhstan",
+    "description": "Explore Almaty, Kazakhstan, with a scenic city tour, bustling bazaars, breathtaking mountains, and landscapes that showcase the country's unique charm.",
+    "images": [
+      "/images/international/kazakisthan/kazakisthan1.png",
+      "/images/international/kazakisthan/kazakisthan2.png",
+      "/images/international/kazakisthan/kazakisthan3.png"
+    ],
+    "duration": "5 days",
+    "rating": 4.5,
+    "highlights": [
+      "Almaty City Tour",
+      "Green Bazaar Visit",
+      "Shymbulak Mountain",
+      "Kok-Tobe Hill Ride",
+      "Arasan Gorge Hiking"
+    ],
+    "category": "Mountain"
+  },
+  {
+    "id": "EuropeLondon",
+    "name": "Europe & London",
+    "description": "Travel across Europe and London, visiting famous attractions, stunning architecture, and experiencing a journey from romantic Paris to historic Rome.",
+    "images": [
+      "/images/international/Europe/europe1.png",
+      "/images/international/Europe/europe2.png",
+      "/images/international/Europe/europe3.png"
+    ],
+    "duration": "16 days",
+    "rating": 5.0,
+    "highlights": [
+      "London Eye View",
+      "Eiffel Tower Ascent",
+      "Disneyland Paris Fun",
+      "Mount Titlis Excursion",
+      "Colosseum Rome Tour"
+    ],
+    "category": "City"
+  },
+  {
+    "id": "Baku",
+    "name": "Baku, Azerbaijan",
+    "description": "Visit Baku, a city that blends medieval old city with futuristic architecture. Enjoy a rich culture and history with scenic tours.",
+    "images": [
+      "/images/international/Baku/baku1.png",
+      "/images/international/Baku/baku2.png",
+      "/images/international/Baku/baku3.png"
+    ],
+    "duration": "5 days",
+    "rating": 4.5,
+    "highlights": [
+      "Baku City Tour",
+      "Absheron Peninsula",
+      "Gobustan Rock Art",
+      "Gabala Day Trip",
+      "Heydar Aliyev Center"
+    ],
+    "category": "City"
+  },
+  {
+    "id": "Vietnam",
+    "name": "Vietnam",
+    "description": "Discover the beautiful landscapes of Vietnam, from cultural landmarks and serene bays to bustling cities and the iconic Golden Hand Bridge.",
+    "images": [
+      "/images/international/vietnam/vietnam1.png",
+      "/images/international/vietnam/vietnam2.png",
+      "/images/international/vietnam/vietnam3.png"
+    ],
+    "duration": "7 days",
+    "rating": 4.6,
+    "highlights": [
+      "Hanoi City Tour",
+      "Ha Long Bay Cruise",
+      "Golden Hands Bridge",
+      "Da Nang City Exploration",
+      "Ho Chi Minh City"
+    ],
+    "category": "Adventure"
+  },
+  {
+    "id": "Bali",
+    "name": "Bali, Indonesia",
+    "description": "Enjoy Bali’s tropical charm with island tours, traditional dances, stunning temple visits, and thrilling water sports in a scenic paradise.",
+    "images": [
+      "/images/international/Bali/bali1.png",
+      "/images/international/Bali/bali2.png",
+      "/images/international/Bali/bali3.png"
+    ],
+    "duration": "6 days",
+    "rating": 4.8,
+    "highlights": [
+      "Water Sports Tanjung Benoa",
+      "Uluwatu Temple Visit",
+      "Nusa Penida Day Tour",
+      "Ubud Market Shopping",
+      "Kintamani Volcano View"
+    ],
+    "category": "Beach"
+  },
+  {
+    "id": "SingaporeMalaysia",
+    "name": "Singapore & Malaysia Tour",
+    "description": "A 5-night, 6-day holiday to Singapore and Malaysia. Includes a two-night cruise and visits to Universal Studios, Sentosa Island, and Gardens by the Bay.",
+    "images": [
+      "/images/international/singapore/singapore1.png",
+      "/images/international/singapore/singapore2.png",
+      "/images/international/singapore/singapore3.png"
+    ],
+    "price": "",
+    "originalPrice": "",
+    "duration": "6 days",
+    "rating": 4.7,
+    "International": ["Singapore", "Malaysia"],
+    "highlights": [
+      "Night Safari",
+      "Universal Studios",
+      "Gardens by the Bay",
+      "Sentosa Island",
+      "Batu Caves"
+    ],
+    "category": "City"
+  },
+  {
+    "id": "Thailand",
+    "name": "Thailand Tour",
+    "description": "Explore Thailand on a 4-night, 5-day tour of Pattaya and Bangkok. Highlights include Coral Island, Nong Nooch Village, and iconic city temples.",
+    "images": [
+      "/images/international/thailand/thailand1.png",
+      "/images/international/thailand/thailand2.png",
+      "/images/international/thailand/thailand3.png"
+    ],
+    "price": "",
+    "originalPrice": "",
+    "duration": "5 days",
+    "rating": 4.6,
+    "International": ["Pattaya", "Bangkok"],
+    "highlights": [
+      "Alcazar Show",
+      "Coral Island",
+      "Nong Nooch Village",
+      "Golden Buddha Temple",
+      "Wat Arun"
+    ],
+    "category": "Beach & City"
+  },
+  {
+    "id": "Nepal",
+    "name": "Nepal Tour",
+    "description": "An 8-night, 9-day tour to Nepal, visiting the spiritual heart of Kathmandu and the scenic beauty of Pokhara for a holistic experience.",
+    "images": [
+      "/images/international/nepal/nepal1.png",
+      "/images/international/nepal/nepal2.png",
+      "/images/international/nepal/nepal3.png"
+    ],
+    "duration": "9 days",
+    "rating": 4.8,
+    "International": ["Kathmandu", "Pokhara"],
+    "highlights": [
+      "Pashupatinath Temple",
+      "Manakamana Temple",
+      "Sarangkot Hill Sunrise",
+      "Phewa Lake",
+      "Muktinath Temple"
+    ],
+    "category": "Pilgrimage"
+  }
+]

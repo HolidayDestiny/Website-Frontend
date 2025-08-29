@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Flight Booking",
+    "description": "Comprehensive flight booking service with best price guarantees",
+    "icon": "✈️",
+    "features": ["24/7 support", "Price matching", "Flexible dates", "Multi-city options"],
+    "price": "Free service"
+  },
+  {
+    "id": 2,
+    "name": "Hotel Reservations",
+    "description": "Luxury to budget accommodations worldwide with exclusive deals",
+    "icon": "🏨",
+    "features": ["Verified reviews", "Best rate guarantee", "Free cancellation", "Loyalty rewards"],
+    "price": "Free service"
+  },
+  {
+    "id": 3,
+    "name": "Guided Tours",
+    "description": "Expert-led tours with local insights and authentic experiences",
+    "icon": "🎯",
+    "features": ["Local guides", "Small groups", "Custom itineraries", "Cultural immersion"],
+    "price": "From $50/day"
+  },
+  {
+    "id": 4,
+    "name": "Travel Insurance",
+    "description": "Comprehensive coverage for worry-free travel experiences",
+    "icon": "🛡️",
+    "features": ["Medical coverage", "Trip cancellation", "Baggage protection", "24/7 assistance"],
+    "price": "From $25"
+  },
+  {
+    "id": 5,
+    "name": "Visa Services",
+    "description": "Streamlined visa application process with expert assistance",
+    "icon": "📋",
+    "features": ["Document preparation", "Application tracking", "Express processing", "Expert consultation"],
+    "price": "From $75"
+  },
+  {
+    "id": 6,
+    "name": "Transportation",
+    "description": "Reliable ground transportation including transfers and car rentals",
+    "icon": "🚗",
+    "features": ["Airport transfers", "Car rentals", "Private drivers", "Public transport passes"],
+    "price": "From $30"
+  },
+  {
+    "id": 7,
+    "name": "Activity Booking",
+    "description": "Book exciting activities and experiences at your destination",
+    "icon": "🎪",
+    "features": ["Adventure sports", "Cultural activities", "Food tours", "Spa treatments"],
+    "price": "From $20"
+  },
+  {
+    "id": 8,
+    "name": "Concierge Service",
+    "description": "Personalized assistance for all your travel needs",
+    "icon": "👨‍💼",
+    "features": ["Restaurant reservations", "Event tickets", "Shopping assistance", "Emergency support"],
+    "price": "From $100"
+  }
+]
