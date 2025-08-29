@@ -58,7 +58,7 @@ const Footer = () => {
                   className="w-full h-full object-contain"
                 />
               </div>
-              <span className="text-3xl gradient-text font-bold font-display">
+              <span className="text-3xl font-display bg-gradient-to-r from-green-800 to-red-600 bg-clip-text text-transparent font-bold font-display">
                 Holiday Destiny
               </span>
             </div>
@@ -92,7 +92,7 @@ const Footer = () => {
                 <li key={index}>
                   <Link
                     to={link.path}
-                    className="opacity-80 hover:opacity-100 transition-colors duration-300 text-sm"
+                    className="opacity-80 hover:opacity-100 transition-colors font-bold duration-300 text-sm"
                   >
                     {link.name}
                   </Link>
@@ -110,7 +110,7 @@ const Footer = () => {
                 <li key={index}>
                   <Link
                     to={link.path}
-                    className="opacity-80 hover:opacity-100 transition-colors duration-300 text-sm"
+                    className="opacity-80 hover:opacity-100 transition-colors font-bold duration-300 text-sm"
                   >
                     {link.name}
                   </Link>
@@ -128,7 +128,7 @@ const Footer = () => {
                 <li key={index}>
                   <Link
                     to={link.path}
-                    className="opacity-80 hover:opacity-100 transition-colors duration-300 text-sm"
+                    className="opacity-80 hover:opacity-100 font-bold transition-colors duration-300 text-sm"
                   >
                     {link.name}
                   </Link>
@@ -139,7 +139,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-8 pt-8 border-t border-white/20">
-          <div className="flex flex-col md:flex-row justify-center items-center gap-8 opacity-60 text-sm">
+          <div className="flex flex-col md:flex-row justify-center items-center gap-8 opacity-60 text-sm font-bold">
             <a
               href="mailto:enquiry@holidaydestiny.co.in"
               className="flex items-center gap-2"

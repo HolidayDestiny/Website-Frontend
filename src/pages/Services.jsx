@@ -4,43 +4,57 @@ import { Link } from "react-router-dom";
 import banner from "../assets/images/services-banner.jpg";
 
 const Services = () => {
-  const services = [
-    {
-      id: "flights",
-      title: "Flight Booking",
-      description:
-        "Find and book the best deals on flights to destinations worldwide. We offer flexible options and competitive prices for all your travel needs.",
-      icon: "✈️",
-    },
-    {
-      id: "hotels",
-      title: "Hotel Reservations",
-      description:
-        "Choose from a wide range of accommodations, from luxury resorts to budget-friendly stays. Our selection ensures you find the perfect place to relax.",
-      icon: "🏨",
-    },
-    {
-      id: "insurance",
-      title: "Travel Insurance",
-      description:
-        "Protect your trip with comprehensive travel insurance. We offer plans that cover cancellations, medical emergencies, and lost baggage for peace of mind.",
-      icon: "🛡️",
-    },
-    {
-      id: "visa",
-      title: "Visa Services",
-      description:
-        "Simplify your international travel with our expert visa assistance. We guide you through the application process to ensure a smooth and hassle-free experience.",
-      icon: "🛂",
-    },
-    {
-      id: "tours",
-      title: "Guided Tours",
-      description:
-        "Discover local culture and hidden gems with our curated guided tours. Our experienced guides provide unique insights and unforgettable adventures.",
-      icon: "🗺️",
-    },
-  ];
+const services = [
+  {
+    id: "flights",
+    title: "Flight Booking",
+    description:
+      "Find and book the best deals on flights to destinations worldwide. We offer flexible options and competitive prices for all your travel needs.",
+    icon: "✈️",
+  },
+  {
+    id: "hotels",
+    title: "Hotel Reservations",
+    description:
+      "Choose from a wide range of accommodations, from luxury resorts to budget-friendly stays. Our selection ensures you find the perfect place to relax.",
+    icon: "🏨",
+  },
+  {
+    id: "insurance",
+    title: "Travel Insurance",
+    description:
+      "Protect your trip with comprehensive travel insurance. We offer plans that cover cancellations, medical emergencies, and lost baggage for peace of mind.",
+    icon: "🛡️",
+  },
+  {
+    id: "visa",
+    title: "Visa Services",
+    description:
+      "Simplify your international travel with our expert visa assistance. We guide you through the application process to ensure a smooth and hassle-free experience.",
+    icon: "🛂",
+  },
+  {
+    id: "tours",
+    title: "Guided Tours",
+    description:
+      "Discover local culture and hidden gems with our curated guided tours. Our experienced guides provide unique insights and unforgettable adventures.",
+    icon: "🗺️",
+  },
+  {
+    id: "foreign-exchange",
+    title: "Foreign Exchange",
+    description:
+      "Get the best exchange rates for your currency needs. We provide secure and convenient services to handle your foreign cash and traveler's checks.",
+    icon: "💵",
+  },
+  {
+    id: "event-planning",
+    title: "Event Planning",
+    description:
+      "From corporate events to destination weddings, our team plans and manages every detail to ensure a memorable and successful occasion.",
+    icon: "🎉",
+  },
+];
 
   return (
     <>
