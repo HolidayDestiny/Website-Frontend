@@ -67,7 +67,7 @@ const Footer = () => {
               specialize in creating personalized journeys that transform your
               dreams into reality.
             </p>
-            <div className="flex space-x-4">
+            {/* <div className="flex space-x-4">
               {socialLinks.map((social, index) => (
                 <a
                   key={index}
@@ -80,7 +80,7 @@ const Footer = () => {
                   <span className="text-lg">{social.icon}</span>
                 </a>
               ))}
-            </div>
+            </div> */}
           </div>
 
           <div>
@@ -141,11 +141,11 @@ const Footer = () => {
         <div className="mt-8 pt-8 border-t border-white/20">
           <div className="flex flex-col md:flex-row justify-center items-center gap-8 opacity-60 text-sm font-bold">
             <a
-              href="mailto:enquiry@holidaydestiny.co.in"
+              href="mailto:inquiry@holidaydestiny.co.in"
               className="flex items-center gap-2"
             >
               <span className="text-lg">📧</span>
-              <span>enquiry@holidaydestiny.co.in</span>
+              <span>inquiry@holidaydestiny.co.in</span>
             </a>
             <a href="tel:+919885164442" className="flex items-center gap-2">
               <span className="text-lg">📞</span>

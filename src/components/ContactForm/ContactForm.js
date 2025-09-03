@@ -256,7 +256,7 @@ const ContactForm = () => {
                 <span className="status-icon">❌</span>
                 <div>
                   <h4>Something went wrong</h4>
-                  <p>Please try again or contact us directly at enquiry@holidaydestiny.co.in</p>
+                  <p>Please try again or contact us directly at inquiry@holidaydestiny.co.in</p>
                 </div>
               </div>
             )}
@@ -269,7 +269,7 @@ const ContactForm = () => {
           <span className="info-icon">📧</span>
           <div>
             <h4>Email</h4>
-            <p>enquiry@holidaydestiny.co.in</p>
+            <p>inquiry@holidaydestiny.co.in</p>
           </div>
         </div>
         <div className="info-item">

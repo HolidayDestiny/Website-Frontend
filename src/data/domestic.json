@@ -88,9 +88,9 @@
     "name": "Kailash Mansarovar Yatra",
     "description": "A 12-night, 13-day spiritual journey to Mount Kailash and Lake Manasarovar, starting and ending in Kathmandu. This pilgrimage offers a truly transcendent experience through sacred sites and breathtaking landscapes, a journey for the soul.",
     "images": [
-      "/images/kailash1.jpg",
-      "/images/kailash2.jpg",
-      "/images/kailash3.jpg"
+      "/images/Domestic/Kailash/kailash1.png",
+      "/images/Domestic/Kailash/kailash2.png",
+      "/images/Domestic/Kailash/kailash3.png"
     ],
     "price": "₹95,000",
     "originalPrice": "₹110,000",
@@ -167,6 +167,33 @@
     "category": "Beach"
   },
   {
+  "id": "Ayodhya",
+  "name": "Ayodhya Pilgrimage Tour",
+  "description": "A 5-night, 6-day spiritual pilgrimage to the sacred city of Ayodhya. This tour includes all major temple visits and a deep dive into the city's rich religious and historical significance.",
+  "images": [
+    "/images/Domestic/Ayodhya/ayodhya1.png",
+    "/images/Domestic/Ayodhya/ayodhya2.png",
+    "/images/Domestic/Ayodhya/ayodhya3.png"
+  ],
+  "price": "₹35,000",
+  "originalPrice": "₹40,000",
+  "duration": "6 days",
+  "rating": 4.8,
+  "includes": [
+    "Transfers by AC Vehicle",
+    "Assistance on Arrival",
+    "All sightseeing as per Itinerary by AC Vehicle",
+    "Flight charges"
+  ],
+  "highlights": [
+    "Ram Janmabhoomi Temple",
+    "Hanuman Garhi Temple",
+    "Kanak Bhawan Temple",
+    "Saryu River Aarti"
+  ],
+  "category": "Pilgrimage"
+},
+  {
     "id": "ChardhamYatra",
     "name": "Chardham Yatra",
     "description": "Embark on an 11-night, 12-day spiritual journey to the sacred Char Dhams of Uttarakhand for a truly divine pilgrimage experience. A journey of faith through breathtaking Himalayan landscapes.",
@@ -228,9 +255,9 @@
     "name": "Madhurai to Kanyakumari Tour",
     "description": "A comprehensive 5-night, 6-day tour of Southern India's spiritual and natural sites. You will visit sacred temples like Meenakshi Sundareshwara and Ramanathaswamy, and witness the unique beauty of Kanyakumari. A truly spiritual escape.",
     "images": [
-      "/images/kodai1.jpg",
-      "/images/kodai2.jpg",
-      "/images/kodai3.jpg"
+      "/images/Domestic/Madhurai/Madhurai1.png",
+      "/images/Domestic/Madhurai/Madhurai2.png",
+      "/images/Domestic/Madhurai/Madhurai3.png"
     ],
     "price": "₹30,000",
     "originalPrice": "₹35,000",

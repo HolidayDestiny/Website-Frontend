@@ -12,3 +12,4 @@ build/
 # OS/system
 .DS_Store
 Thumbs.db
+.vercel

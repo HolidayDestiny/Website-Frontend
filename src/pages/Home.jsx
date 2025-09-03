@@ -289,7 +289,7 @@ const Home = () => {
 </section>
 
       {/* Founder Section */}
-      <section className="py-16 md:py-24 bg-gradient-to-r from-red-500 to-white text-gray-800">
+      <section id="services" className="py-16 md:py-24 bg-gradient-to-r from-red-500 to-white text-gray-800">
         <div className="container mx-auto px-4 md:grid md:grid-cols-2 md:gap-16 items-center">
           {/* Image */}
           <div className="flex justify-center p-8 md:p-0 mb-8 md:mb-0">
@@ -358,7 +358,7 @@ const Home = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold">Email Us</h3>
-                <p className="text-gray-600">enquiry@holidaydestiny.co.in</p>
+                <p className="text-gray-600">inquiry@holidaydestiny.co.in</p>
               </div>
             </div>
 

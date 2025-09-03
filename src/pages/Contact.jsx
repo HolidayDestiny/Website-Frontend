@@ -364,7 +364,7 @@ const Contact = () => {
                           </h4>
                           <p className="text-sm">
                             Please try again or contact us directly at
-                            enquiry@holidaydestiny.co.in
+                            inquiry@holidaydestiny.co.in
                           </p>
                         </div>
                       </div>
@@ -389,7 +389,7 @@ const Contact = () => {
                       Email
                     </h3>
                     <p className="text-gray-600">
-                      enquiry@holidaydestiny.co.in
+                      inquiry@holidaydestiny.co.in
                     </p>
                     <p className="text-sm text-gray-500">
                       We'll respond within 24 hours
