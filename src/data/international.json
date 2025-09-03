@@ -144,9 +144,9 @@
     "name": "Singapore & Malaysia Tour",
     "description": "A 5-night, 6-day holiday to Singapore and Malaysia. Includes a two-night cruise and visits to Universal Studios, Sentosa Island, and Gardens by the Bay.",
     "images": [
-      "/images/international/singapore/singapore1.png",
-      "/images/international/singapore/singapore2.png",
-      "/images/international/singapore/singapore3.png"
+      "/images/international/Singapore/Singapore1.png",
+      "/images/international/Singapore/Singapore2.png",
+      "/images/international/Singapore/Singapore3.png"
     ],
     "price": "",
     "originalPrice": "",
@@ -167,9 +167,9 @@
     "name": "Thailand Tour",
     "description": "Explore Thailand on a 4-night, 5-day tour of Pattaya and Bangkok. Highlights include Coral Island, Nong Nooch Village, and iconic city temples.",
     "images": [
-      "/images/international/thailand/thailand1.png",
-      "/images/international/thailand/thailand2.png",
-      "/images/international/thailand/thailand3.png"
+      "/images/international/Thailand/Thailand1.png",
+      "/images/international/Thailand/Thailand2.png",
+      "/images/international/Thailand/Thailand3.png"
     ],
     "price": "",
     "originalPrice": "",
@@ -190,9 +190,9 @@
     "name": "Nepal Tour",
     "description": "An 8-night, 9-day tour to Nepal, visiting the spiritual heart of Kathmandu and the scenic beauty of Pokhara for a holistic experience.",
     "images": [
-      "/images/international/nepal/nepal1.png",
-      "/images/international/nepal/nepal2.png",
-      "/images/international/nepal/nepal3.png"
+      "/images/international/nepal/Nepal1.png",
+      "/images/international/nepal/Nepal2.png",
+      "/images/international/nepal/Nepal3.png"
     ],
     "duration": "9 days",
     "rating": 4.8,
