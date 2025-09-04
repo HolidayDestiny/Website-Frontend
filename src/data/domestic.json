@@ -84,33 +84,6 @@
     "category": "Nature"
   },
   {
-    "id": "KailashMansarovar",
-    "name": "Kailash Mansarovar Yatra",
-    "description": "A 12-night, 13-day spiritual journey to Mount Kailash and Lake Manasarovar, starting and ending in Kathmandu. This pilgrimage offers a truly transcendent experience through sacred sites and breathtaking landscapes, a journey for the soul.",
-    "images": [
-      "/images/Domestic/Kailash/Kailash1.png",
-      "/images/Domestic/Kailash/Kailash2.png",
-      "/images/Domestic/Kailash/Kailash3.png"
-    ],
-    "price": "₹95,000",
-    "originalPrice": "₹110,000",
-    "duration": "13 days",
-    "rating": 4.9,
-    "includes": [
-      "Accommodation as per itinerary",
-      "All travel arrangements & permits",
-      "Meals as per tour plan",
-      "Experienced tour guide"
-    ],
-    "highlights": [
-      "Pashupatinath Temple",
-      "Mount Kailash Parikrama",
-      "Lake Manasarovar",
-      "Swayambhunath Stupa"
-    ],
-    "category": "Pilgrimage"
-  },
-  {
     "id": "Kashmir",
     "name": "Kashmir Tour",
     "description": "A 5-night, 6-day tour of Kashmir, covering Srinagar, Gulmarg, and Pahalgam. Focus on natural beauty and adventure, with a memorable Shikara ride on Dal Lake and a Gondola ride at Gulmarg. Truly a paradise on earth.",

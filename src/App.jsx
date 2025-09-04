@@ -28,7 +28,21 @@ const AutoScrollToTop = () => {
   return null;
 };
 
+// ✅ Warm-up hook to ping backend
+const useKeepServerWarm = () => {
+  useEffect(() => {
+    const interval = setInterval(() => {
+      fetch("https://your-backend-url.onrender.com/") 
+        .then(() => console.log("Warm-up ping sent"))
+        .catch((err) => console.error("Warm-up error:", err));
+    }, 1 * 60 * 1000); // every 1 minute
+
+    return () => clearInterval(interval);
+  }, []);
+};
+
 function App() {
+  useKeepServerWarm();
   return (
     <HelmetProvider>
       <Router>

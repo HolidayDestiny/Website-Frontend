@@ -139,6 +139,33 @@
     ],
     "category": "Beach"
   },
+    {
+    "id": "KailashMansarovar",
+    "name": "Kailash Mansarovar Yatra",
+    "description": "A 12-night, 13-day spiritual journey to Mount Kailash and Lake Manasarovar, starting and ending in Kathmandu. This pilgrimage offers a truly transcendent experience through sacred sites and breathtaking landscapes, a journey for the soul.",
+    "images": [
+      "/images/international/Kailash/Kailash1.png",
+      "/images/international/Kailash/Kailash2.png",
+      "/images/international/Kailash/Kailash3.png"
+    ],
+    "price": "₹95,000",
+    "originalPrice": "₹110,000",
+    "duration": "13 days",
+    "rating": 4.9,
+    "includes": [
+      "Accommodation as per itinerary",
+      "All travel arrangements & permits",
+      "Meals as per tour plan",
+      "Experienced tour guide"
+    ],
+    "highlights": [
+      "Pashupatinath Temple",
+      "Mount Kailash Parikrama",
+      "Lake Manasarovar",
+      "Swayambhunath Stupa"
+    ],
+    "category": "Pilgrimage"
+  },
   {
     "id": "Singapore",
     "name": "Singapore & Malaysia Tour",
