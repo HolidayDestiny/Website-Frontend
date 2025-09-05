@@ -43,7 +43,7 @@ const Contact = () => {
     setSubmitStatus(null);
 
     try {
-      const response = await fetch('https://website-backend-oupq.onrender.com/api/contact', {
+      const response = await fetch('https://holiday-destiny-backend.onrender.com/api/contact', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
