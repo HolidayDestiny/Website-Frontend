@@ -32,14 +32,18 @@ const AutoScrollToTop = () => {
 const useKeepServerWarm = () => {
   useEffect(() => {
     const interval = setInterval(() => {
-      fetch("https://your-backend-url.onrender.com/") 
-        .then(() => console.log("Warm-up ping sent"))
-        .catch((err) => console.error("Warm-up error:", err));
-    }, 1 * 60 * 1000); // every 1 minute
+      fetch("https://holiday-destiny-backend.onrender.com/") // ✅ real backend URL
+        .then(res => {
+          if (!res.ok) throw new Error("Backend not reachable");
+          console.log("Warm-up ping sent");
+        })
+        .catch(err => console.error("Warm-up error:", err));
+    }, 60 * 1000); // every 1 minute
 
     return () => clearInterval(interval);
   }, []);
 };
+
 
 function App() {
   useKeepServerWarm();
