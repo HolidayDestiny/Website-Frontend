@@ -80,6 +80,54 @@
     "category": "City"
   },
   {
+  "id": "Australia",
+  "name": "Australia Package",
+  "description": "A 9-night, 10-day journey through Gold Coast, Cairns, Melbourne, and Sydney. Enjoy thrilling theme parks, the Great Barrier Reef, penguin parades, iconic city tours, and world-famous landmarks.",
+  "images": [
+    "/images/international/Australia/Australia1.png",
+    "/images/international/Australia/Australia2.png",
+    "/images/international/Australia/Australia3.png"
+  ],
+  "duration": "10 days",
+  "rating": 4.9,
+  "highlights": [
+    "Jet Boat Ride in Gold Coast",
+    "Movie World & Sea World Theme Parks",
+    "Dream World Rides & SkyPoint Observatory",
+    "Kuranda Rainforest & Skyrail Experience",
+    "Great Barrier Reef Cruise",
+    "Philip Island Penguin Parade",
+    "Great Ocean Road & Twelve Apostles",
+    "Melbourne City Tour & MCG Guided Tour",
+    "Sydney City Tour with Opera House Guided Tour",
+    "Sydney Tower Eye & Madame Tussauds Visit"
+  ],
+  "category": "Adventure"
+},
+{
+  "id": "Bhutan",
+  "name": "Bhutan Package",
+  "description": "A 5-night, 6-day cultural journey through Phuentsholing, Thimphu, and Paro. Experience monasteries, Himalayan landscapes, local culture, and the iconic Tiger’s Nest Monastery.",
+  "images": [
+    "/images/international/Bhutan/Bhutan1.png",
+    "/images/international/Bhutan/Bhutan2.png",
+    "/images/international/Bhutan/Bhutan3.png"
+  ],
+  "duration": "6 days",
+  "rating": 4.7,
+  "highlights": [
+    "Explore Phuentsholing Town",
+    "Scenic Drive to Thimphu",
+    "Kuensel Phodrang Buddha Statue",
+    "National Memorial Chorten",
+    "Folk Heritage Museum & Zorig Chusum",
+    "Paro Taktsang (Tiger’s Nest) Hike",
+    "Kyichu Lhakhang Monastery",
+    "Changangkha Monastery & Takin Preserve"
+  ],
+  "category": "Cultural"
+},
+  {
     "id": "Baku",
     "name": "Baku, Azerbaijan",
     "description": "Visit Baku, a city that blends medieval old city with futuristic architecture. Enjoy a rich culture and history with scenic tours.",

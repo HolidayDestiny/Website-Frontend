@@ -295,7 +295,7 @@ const Home = () => {
           <div className="flex justify-center p-8 md:p-0 mb-8 md:mb-0">
             <img
               src={image}
-              alt="Mr. Venu Gopal"
+              alt="Dr. Venu Gopal"
               className="rounded-full shadow-lg w-48 h-48 sm:w-64 sm:h-64 md:w-80 md:h-80 object-cover border-4 border-red-500"
             />
           </div>
@@ -305,7 +305,7 @@ const Home = () => {
               Meet Our Founder
             </h2>
             <p className="text-base md:text-lg mb-6 leading-relaxed text-gray-800">
-              Mr. Venu Gopal, the visionary behind Holiday Destiny, has
+              Dr. Venu Gopal, the visionary behind Holiday Destiny, has
               dedicated over a decade to crafting unforgettable travel
               experiences for thousands of travelers worldwide. His deep
               understanding of the tourism industry, coupled with a passion for
@@ -314,7 +314,7 @@ const Home = () => {
             </p>
             <div>
               <p className="text-2xl md:text-3xl font-semibold mb-2 text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-gray-800">
-                Mr. Venu Gopal
+                Dr. Venu Gopal
               </p>
               <p className="text-base md:text-lg text-gray-800 mb-2">
                 Founder & Head of Operations

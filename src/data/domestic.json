@@ -110,7 +110,7 @@
     ],
     "category": "Nature"
   },
-{
+  {
     "id": "Andaman",
     "name": "Andaman Package",
     "description": "A 4-night, 5-day tour to the Andaman Islands. Discover Port Blair and Havelock Island with visits to Corbyn's Cove beach and scenic Elephant beach. Truly a tropical paradise with pristine beaches and clear waters.",
@@ -140,32 +140,32 @@
     "category": "Beach"
   },
   {
-  "id": "Ayodhya",
-  "name": "Ayodhya Pilgrimage Tour",
-  "description": "A 5-night, 6-day spiritual pilgrimage to the sacred city of Ayodhya. This tour includes all major temple visits and a deep dive into the city's rich religious and historical significance.",
-  "images": [
-    "/images/Domestic/Ayodhya/Ayodhya1.png",
-    "/images/Domestic/Ayodhya/Ayodhya2.png",
-    "/images/Domestic/Ayodhya/Ayodhya3.png"
-  ],
-  "price": "₹35,000",
-  "originalPrice": "₹40,000",
-  "duration": "6 days",
-  "rating": 4.8,
-  "includes": [
-    "Transfers by AC Vehicle",
-    "Assistance on Arrival",
-    "All sightseeing as per Itinerary by AC Vehicle",
-    "Flight charges"
-  ],
-  "highlights": [
-    "Ram Janmabhoomi Temple",
-    "Hanuman Garhi Temple",
-    "Kanak Bhawan Temple",
-    "Saryu River Aarti"
-  ],
-  "category": "Pilgrimage"
-},
+    "id": "Ayodhya",
+    "name": "Ayodhya Pilgrimage Tour",
+    "description": "A 5-night, 6-day spiritual pilgrimage to the sacred city of Ayodhya. This tour includes all major temple visits and a deep dive into the city's rich religious and historical significance.",
+    "images": [
+      "/images/Domestic/Ayodhya/Ayodhya1.png",
+      "/images/Domestic/Ayodhya/Ayodhya2.png",
+      "/images/Domestic/Ayodhya/Ayodhya3.png"
+    ],
+    "price": "₹35,000",
+    "originalPrice": "₹40,000",
+    "duration": "6 days",
+    "rating": 4.8,
+    "includes": [
+      "Transfers by AC Vehicle",
+      "Assistance on Arrival",
+      "All sightseeing as per Itinerary by AC Vehicle",
+      "Flight charges"
+    ],
+    "highlights": [
+      "Ram Janmabhoomi Temple",
+      "Hanuman Garhi Temple",
+      "Kanak Bhawan Temple",
+      "Saryu River Aarti"
+    ],
+    "category": "Pilgrimage"
+  },
   {
     "id": "ChardhamYatra",
     "name": "Chardham Yatra",
@@ -223,6 +223,147 @@
     ],
     "category": "Nature"
   },
+ {
+  "id": "Wildlife",
+  "name": "Madhya Pradesh Wildlife Tour",
+  "description": "A 4N/5D trip through Pench and Kanha with thrilling jungle safaris and forest drives.",
+  "images": [
+    "/images/Domestic/Wildlife/Wildlife1.png",
+    "/images/Domestic/Wildlife/Wildlife2.png",
+    "/images/Domestic/Wildlife/Wildlife3.png"
+  ],
+  "price": "",
+  "originalPrice": "",
+  "duration": "5 days",
+  "rating": 4.8,
+  "Domestic": ["Nagpur", "Pench", "Kanha"],
+  "includes": [
+    "Stay in 3/4/5 Star Hotels",
+    "Meals as per plan",
+    "AC transfers & sightseeing",
+    "Toll, tax & permits",
+    "Gypsy Safari"
+  ],
+  "highlights": [
+    "Pench Jungle Safari",
+    "Kanha Jungle Safari",
+    "Scenic forest drives"
+  ],
+  "category": "Wildlife"
+},
+{
+  "id": "Puri",
+  "name": "Puri, Konark & Chilika Tour",
+  "description": "A 2N/3D trip across Odisha covering Bhubaneswar, Puri, Konark and Chilika Lake.",
+  "images": [
+    "/images/Domestic/Puri/Puri1.png",
+    "/images/Domestic/Puri/Puri2.png",
+    "/images/Domestic/Puri/Puri3.png"
+  ],
+  "price": "",
+  "originalPrice": "",
+  "duration": "3 days",
+  "rating": 4.6,
+  "Domestic": ["Bhubaneswar", "Puri", "Konark", "Chilika Lake"],
+  "includes": [
+    "3 Star Hotel stay",
+    "Breakfast, Lunch & Dinner",
+    "AC transfers & sightseeing",
+    "Flight charges"
+  ],
+  "highlights": [
+    "Jagannath Temple",
+    "Konark Sun Temple",
+    "Chilika Lake",
+    "Bhubaneswar Temples"
+  ],
+  "category": "Pilgrimage"
+},
+{
+  "id": "Darjeeling",
+  "name": "Darjeeling, Gangtok & Kalimpong",
+  "description": "A 5N/6D Himalayan trip with lakes, monasteries, tea gardens and mountain views.",
+  "images": [
+    "/images/Domestic/Darjeeling/Darjeeling1.png",
+    "/images/Domestic/Darjeeling/Darjeeling2.png",
+    "/images/Domestic/Darjeeling/Darjeeling3.png"
+  ],
+  "price": "",
+  "originalPrice": "",
+  "duration": "6 days",
+  "rating": 4.7,
+  "Domestic": ["Gangtok", "Darjeeling", "Kalimpong"],
+  "includes": [
+    "3 Star Hotel stay",
+    "Meals as per plan",
+    "Private transport",
+    "Toll & permits"
+  ],
+  "highlights": [
+    "Tsomgo Lake & Baba Mandir",
+    "Darjeeling Tiger Hill",
+    "Tea Gardens & Toy Train",
+    "Kalimpong Deolo Hill"
+  ],
+  "category": "Nature"
+},
+{
+  "id": "Uttarakhand",
+  "name": "Uttarakhand Tour",
+  "description": "A 5N/6D trip through Nainital, Almora and Corbett with lakes, temples and safaris.",
+  "images": [
+    "/images/Domestic/Uttarakhand/Uttarakhand1.png",
+    "/images/Domestic/Uttarakhand/Uttarakhand2.png",
+    "/images/Domestic/Uttarakhand/Uttarakhand3.png"
+  ],
+  "price": "",
+  "originalPrice": "",
+  "duration": "6 days",
+  "rating": 4.7,
+  "Domestic": ["Delhi", "Nainital", "Almora", "Corbett"],
+  "includes": [
+    "Stay in 3/4/5 Star Hotels",
+    "Meals as per plan",
+    "AC transfers & sightseeing",
+    "Toll, tax & permits"
+  ],
+  "highlights": [
+    "Nainital Lake & Ropeway",
+    "Kasar Devi & Jageshwar",
+    "Corbett Jungle Safari",
+    "Mall Road Shopping"
+  ],
+  "category": "Nature"
+},
+{
+  "id": "GoldenTriangle",
+  "name": "Golden Triangle Tour",
+  "description": "A 5N/6D heritage journey through Delhi, Mathura, Agra and Jaipur with temples, forts and palaces.",
+  "images": [
+    "/images/Domestic/GoldenTriangle/GoldenTriangle1.png",
+    "/images/Domestic/GoldenTriangle/GoldenTriangle2.png",
+    "/images/Domestic/GoldenTriangle/GoldenTriangle3.png"
+  ],
+  "price": "",
+  "originalPrice": "",
+  "duration": "6 days",
+  "rating": 4.8,
+  "Domestic": ["Delhi", "Mathura", "Agra", "Jaipur"],
+  "includes": [
+    "Stay in 3/4/5 Star Hotels",
+    "Meals as per plan",
+    "AC transfers & sightseeing",
+    "Toll, tax & permits"
+  ],
+  "highlights": [
+    "India Gate, Qutub Minar",
+    "Mathura Temples",
+    "Taj Mahal & Fatehpur Sikri",
+    "Amber Fort, Hawa Mahal & City Palace"
+  ],
+  "category": "Heritage"
+},
+
   {
     "id": "SouthIndiaPilgrimage",
     "name": "Madhurai to Kanyakumari Tour",
